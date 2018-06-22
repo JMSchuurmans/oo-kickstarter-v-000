@@ -14,6 +14,6 @@ class Backer
     Project.backers << name
   end
 
-  
+
 
 end
